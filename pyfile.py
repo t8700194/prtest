@@ -1,1 +1,3 @@
-print('hello')
+euro = 1
+pln = 4.4
+print('hello world 2!')

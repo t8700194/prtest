@@ -2,6 +2,7 @@ x = 55
 
 a = 3
 b =4 
+xzc=5333
 c = a*b
 print('hello')
 print('new')
@@ -13,3 +14,4 @@ print('hello world 2!')
 print('test! gh')
 
 print("Another method check")
+asd=43333

@@ -11,6 +11,13 @@ print('new')
 
 euro = 1
 pln = 4.4
+a
+a
+a
+a
+a
+a
+a
 print('hello world 3!')
 print('hello world 2!')
 print('test! gh')

@@ -5,6 +5,8 @@ b =4
 xzc=5333
 c = a*b
 print('hello')
+ac=3
+abx=45
 print('new')
 
 euro = 1
@@ -15,3 +17,4 @@ print('test! gh')
 
 print("Another method check")
 asd=43333
+
